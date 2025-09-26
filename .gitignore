@@ -1,0 +1,9 @@
+*.env
+/backend/.env.DS_Store
+backend/.cloudfront-private.pem
+/backend/.env
+/frontend/.env
+.DS_Store
+paypal-onetime-payment.html
+paypaltest.html
+test-paypal-subscrription.html

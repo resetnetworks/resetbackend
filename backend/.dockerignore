@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+.env
+.DS_Store
+.git
+.gitignore
+tests
+uploads
+src
+features
+models
+
+//* something something something something somethjing something something jk;l
+
+
